@@ -1,0 +1,21 @@
+[
+  {
+    "type": "image",
+    "id": "ID_BEACON",
+    "soundPath": "raw/music",
+    "text": "Pole tekstowe beacona 1, dodatkowo gra muzyka w tle",
+    "imagePath": "logo"
+  },
+  {
+    "type": "video",
+    "id": "2",
+    "text": "Pole tekstowe pod filmikiem",
+    "videoPath": "raw/videoplayback"
+  },
+  {
+    "type": "image",
+    "id": "3",
+    "text": "Pole tekstowe beacona o ID = 3",
+    "imagePath": "logo"
+  }
+]
